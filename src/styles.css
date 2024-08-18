@@ -1,0 +1,17 @@
+img{
+    background-color: aqua;
+    border: 5px solid orangered;
+    
+}
+body{
+    background-color: chartreuse;
+}
+
+h1{
+    text-align: center;
+    background-color: blue;
+    width: 400px;
+    border: 2px solid black;
+    
+    
+}
